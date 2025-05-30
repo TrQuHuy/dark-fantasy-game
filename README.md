@@ -57,8 +57,10 @@ game/
 - Libraries: pygame
 
 ## 📸 Screenshots
-
-*(Bạn có thể chèn ảnh screenshot gameplay ở đây nếu muốn)*
+![Gameplay Screenshot](screenshots/mage.png)
+![Gameplay Screenshot](screenshots/warrior.png)
+![Gameplay Screenshot](screenshots/1.png)
+![Gameplay Screenshot](screenshots/2.png)
 
 ## 👨‍💻 Author
 
