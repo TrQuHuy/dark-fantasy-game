@@ -1,0 +1,32 @@
+[
+  {
+    "slot_id": 1,
+    "save_name": "1",
+    "player_level": 1,
+    "timestamp": "2025-05-30 21:52:13"
+  },
+  {
+    "slot_id": 2,
+    "save_name": "Save 2",
+    "player_level": 1,
+    "timestamp": "2025-05-30 21:52:13"
+  },
+  {
+    "slot_id": 3,
+    "save_name": "Save 3",
+    "player_level": 1,
+    "timestamp": "2025-05-30 21:52:13"
+  },
+  {
+    "slot_id": 4,
+    "save_name": "Save 4",
+    "player_level": 1,
+    "timestamp": "2025-05-30 21:52:13"
+  },
+  {
+    "slot_id": 5,
+    "save_name": "Save 5",
+    "player_level": 1,
+    "timestamp": "2025-05-30 21:52:13"
+  }
+]
